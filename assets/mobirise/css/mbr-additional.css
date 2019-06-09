@@ -1803,12 +1803,20 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1459.jpg");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #e1ef81;
   text-align: center;
+}
+.cid-rsVKKDMnWm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rsVKKDMnWm .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-roIe7TlHn2 {
   padding-top: 90px;
@@ -1829,7 +1837,7 @@ body {
 }
 .cid-roIe7TlHn2 .card-wrapper {
   border-top: 1px solid #efefef;
-  background-color: #ffffff;
+  background-color: #cebfaf;
   position: relative;
   justify-content: unset;
 }
